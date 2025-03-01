@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.bg-layer {
+    background-color: hsl(257, 40%, 49%);
+}
+
+.container {
+    /* padding: 0 2em; */
+    /* margin: 0 auto; */
+}
+
+
+section {
+    /* max-width: 300px; */
+}
+
+img {
+    max-width: 100%;
+}
